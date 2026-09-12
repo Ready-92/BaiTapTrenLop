@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello World!");
 
 int ReadInt(string prompt)
 {
@@ -10,13 +10,13 @@ int ReadInt(string prompt)
         var input = Console.ReadLine();
         if (int.TryParse(input, out var value))
             return value;
-        Console.WriteLine("Nhap sai, nhap lai");
+        Console.WriteLine("nhap sai, nhap lai");
     }
 }
 
-int a = ReadInt("Nhap a: ");
-int b = ReadInt("Nhap b: ");
-int c = ReadInt("Nhap c: ");
+int a = ReadInt("nhap a: ");
+int b = ReadInt("nhap b: ");
+int c = ReadInt("nhap c: ");
 
 int sum = a + b + c;
 double average = sum / 3.0;
