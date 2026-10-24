@@ -1,0 +1,46 @@
+[
+  {
+    "MaSV": "SV0001",
+    "HoTen": "Nguy\u1EC5n V\u0103n A",
+    "NgaySinh": "2006-08-15T00:00:00",
+    "GioiTinh": true,
+    "Email": "an.nv@vju.ac.vn",
+    "DienThoai": "0912345678",
+    "Diem": 8.5,
+    "LopHocId": "L01",
+    "TrangThai": "\u0110ang h\u1ECDc"
+  },
+  {
+    "MaSV": "SV0002",
+    "HoTen": "Tr\u1EA7n Th\u1ECB B",
+    "NgaySinh": "2006-01-22T00:00:00",
+    "GioiTinh": false,
+    "Email": "b.tt@vju.ac.vn",
+    "DienThoai": "0987654321",
+    "Diem": 9,
+    "LopHocId": "L02",
+    "TrangThai": "\u0110ang h\u1ECDc"
+  },
+  {
+    "MaSV": "240110281",
+    "HoTen": "Nguy\u1EC5n \u0110\u0103ng Vi\u1EC7t",
+    "NgaySinh": "2008-10-03T00:00:00+07:00",
+    "GioiTinh": true,
+    "Email": "vietkaka2k6@gmail.com",
+    "DienThoai": "0338279426",
+    "Diem": 10,
+    "LopHocId": "L01",
+    "TrangThai": "\u0110ang h\u1ECDc"
+  },
+  {
+    "MaSV": "24110281",
+    "HoTen": "Nguy\u1EC5n \u0110\u0103ng Vi\u1EC7t",
+    "NgaySinh": "2008-10-03T00:00:00+07:00",
+    "GioiTinh": true,
+    "Email": "akajkje@gmail.com",
+    "DienThoai": "23832840",
+    "Diem": 10,
+    "LopHocId": "L01",
+    "TrangThai": "\u0110ang h\u1ECDc"
+  }
+]

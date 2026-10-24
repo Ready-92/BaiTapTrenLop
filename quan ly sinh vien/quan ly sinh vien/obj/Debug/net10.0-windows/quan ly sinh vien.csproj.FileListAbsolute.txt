@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan_ly_sinh_vien.Form1.resources
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly sinh vien.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly sinh vien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly sinh vien.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly sinh vien.AssemblyInfo.cs
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly sinh vien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\bin\Debug\net10.0-windows\quan ly sinh vien.exe
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\bin\Debug\net10.0-windows\quan ly sinh vien.deps.json
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\bin\Debug\net10.0-windows\quan ly sinh vien.runtimeconfig.json
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\bin\Debug\net10.0-windows\quan ly sinh vien.dll
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\bin\Debug\net10.0-windows\quan ly sinh vien.pdb
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly sinh vien.dll
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\refint\quan ly sinh vien.dll
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly sinh vien.pdb
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly sinh vien.genruntimeconfig.cache
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\ref\quan ly sinh vien.dll
+C:\Users\Admin\source\repos\quan ly sinh vien\quan ly sinh vien\obj\Debug\net10.0-windows\quan ly .E824101B.Up2Date
